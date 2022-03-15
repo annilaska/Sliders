@@ -28,7 +28,7 @@ body {
 
 .Completed_projects {
     background-color: #131313;
-    height: 783px;
+    min-height: 783px;
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
